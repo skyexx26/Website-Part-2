@@ -42,6 +42,8 @@
      height:auto;
      margin:0 auto;
      background-color:var(--mid-color);
+     background-image: url('/graphics/headers/gilroyhills.jpg');
+     background-size: 50%;
      border:1px solid var(--dkest-color);
 }
  .navbar li a {
