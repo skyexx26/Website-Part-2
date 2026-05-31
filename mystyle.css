@@ -43,7 +43,7 @@
      margin:0 auto;
      background-color:var(--mid-color);
      background-image: url('/graphics/headers/homepageheader.jpg');
-     background-size: 50%;
+     background-size: 100%;
      border:1px solid var(--dkest-color);
 }
  .navbar li a {
